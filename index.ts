@@ -96,9 +96,9 @@ if (withdraw.withdraw < mybalance)   {
      }  
         else {
             console.log(
-                "Sorry! Insufficient balance. Please try again.")
+                "Sorry! Insufficient balance in your account. Please try again.")
                 console.log(
-                "Thankyou for using ATM.Have a nice day."
+                "Thankyou for using ATM."
             )
         }
     }

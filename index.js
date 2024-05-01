@@ -67,8 +67,8 @@ if (pinAnswer.pincode === mypin) {
                 console.log("Your remaining balance is" + mybalance);
             }
             else {
-                console.log("Sorry! Insufficient balance. Please try again.");
-                console.log("Thankyou for using ATM.Have a nice day.");
+                console.log("Sorry! Insufficient balance in your account. Please try again.");
+                console.log("Thankyou for using ATM.");
             }
         }
         else if (savingaccount.saving === "check balance")
